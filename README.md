@@ -1,7 +1,11 @@
 # VerstkaGame
 This is the prototype of 2D-game. Hire an army, arrange it and fight with your friend on the 6x8 battlefield. There are different races and  classes with different features.
 The opportunity to save your game is added.
- This is the game commonly known as 'Sapper'. Open the cells and try not to explose. The bot-helper is added - just click the mouse wheel.
+* press the button **NEW GAME** to create new game or the **LOAD GAME** to resume a game if one exists.
+* **LOAD GAME** will bring you directly to the battlefield.
+* **NEW GAME** will bring you to the aligmentfield. Choose needed unit with the help of buttons and drag the unit to the cell you want. Repeat while you have enough coins.
+* press the most right button in order your friend to repeat your actions.
+* welcome to the battlefield. Click the needed unit - you may move in green borders and attack in red ones. Press the sword to finish your turn. Press the gear in the up-right corner to save the game or to exit to the main menu.
 ## Installation
 API:29
 
