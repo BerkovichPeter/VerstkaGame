@@ -6,6 +6,13 @@ The opportunity to save your game is added.
 * **NEW GAME** will bring you to the aligmentfield. Choose needed unit with the help of buttons and drag the unit to the cell you want. Repeat while you have enough coins.
 * press the most right button in order your friend to repeat your actions.
 * welcome to the battlefield. Click the needed unit - you may move in green borders and attack in red ones. Press the sword to finish your turn. Press the gear in the up-right corner to save the game or to exit to the main menu.
+
+## UML 
+![UML](https://github.com/BerkovichPeter/VerstkaGame/raw/master/uml.png)
+
+## Activities
+![Activities](https://github.com/BerkovichPeter/VerstkaGame/raw/master/ctivities.png)
+
 ## Installation
 API:29
 
